@@ -28,7 +28,7 @@ This project aims to detect defects in PCB (Printed Circuit Board) cards using i
 
 - **Feature Matching**
 
-![resim](https://github.com/muhammeddincmdx/PCB-Card-Defect-Detection-by-Comparison/assets/54439858/f100199a-6163-4a70-be0b-dca6985be715)
+![resim](https://github.com/user-attachments/assets/d3c3e1d1-444a-4009-89bc-17b3875d3b3b)
 
 ![resim](https://github.com/muhammeddincmdx/PCB-Card-Defect-Detection-by-Comparison/assets/54439858/45f03fc9-d8d3-4bc3-95ae-ccecf37d0190)
 
