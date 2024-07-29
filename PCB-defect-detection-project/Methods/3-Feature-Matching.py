@@ -88,7 +88,7 @@ for fmatch1,fmatch2 in flann_matches:
 
 flann_matches=cv2.drawMatchesKnn(img1,fkp1,img2,fkp2,good_flann_matches[:25],None,flags=2)
 
-display(matches,"OSB Method")
+display(matches,"ORB Method")
 display(sift_matches,"SINF Method")
 display(flann_matches,"FLANN Method")
 
